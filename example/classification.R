@@ -1,10 +1,10 @@
-########
-# NNET #
-########
+##################
+# Classification #
+##################
 
 #Name: Jonathan Auerbach
 #Date: May 6, 2017
-#Summary: 1. Plot maps with ggmap 2. Prediction with glm, nnet and neuralnet
+#Summary: 1. Plot maps with ggmap 2. Classify with glm, nnet and neuralnet
 
 ###read packages
 install.packages("rgeos")
