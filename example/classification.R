@@ -2,8 +2,8 @@
 # Classification #
 ##################
 
-#Name: Jonathan Auerbach
-#Date: May 6, 2017
+#Name: 
+#Date: 
 #Summary: 1. Plot maps with ggmap 2. Classify with glm, nnet and neuralnet
 
 ###read packages
